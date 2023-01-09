@@ -1,2 +1,0 @@
-# Nainsley.github.io
-README
