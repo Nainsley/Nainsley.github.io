@@ -1,5 +1,6 @@
 body {
-  
+  background-color: lightblue;
+
 } 
 html {
   margin: 0;
@@ -28,4 +29,10 @@ div {
    
     font-size: 1.3rem;
     text-align: center;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0
   }
