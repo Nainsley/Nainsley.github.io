@@ -1,6 +1,31 @@
-.dropdown-content a { 
-  display: block;
-  color: #000
-  padding: 6px
+body {
   
+} 
+html {
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.container { 
+  display: flex;
+  gap: 0.75%
+}
+a {
+  flex: 1;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+  line-height: 3;
+  color: black;
+}
+
+
+ a:hover {
+    border-bottom: 1px solid;
+    background: #d1b4f1;
+  }
+
+div { 
+   
+    font-size: 1.3rem;
+    text-align: center;
+  }
